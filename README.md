@@ -1,5 +1,5 @@
 This CMD script is created for Symbian Developers to use S60 SDKs without registration.
-It resets trial time, after running this script your SDK will have 14 days trial again. So you need to run it every 14 days. If you are lazy just add it to "Startup" folder and SDK will never ask for registration :)
+It resets trial time, after running this script your SDK will have 14 days trial again. So you need to run it after every 14 days. If you are lazy just add it to "Startup" folder and SDK will never ask for registration :)
 
 Tested on Windows 7 x64 and dont require any admin rights.
 Worked for S60v3FP2, S60v5 and S^3 SDKs. Probably it will work for other similar Symbian SDKs, like Nokia N97 SDK and S60v3FP1 SDK. If anyone tested this on other SDKs please tell. 
