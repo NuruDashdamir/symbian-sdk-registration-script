@@ -9,5 +9,3 @@ Script created by me, feel free to use, share and modify. You can add this to an
 Thanks to "nikita36078" for telling me Nokia SDKs registration info path in regedit.
 Thanks to "bent" who is creator of EKA2L1 Symbian Emulator.
 If you interested in with EKA2L1 Symbian emulator visit https://discord.gg/5Bm5SJ9 and https://github.com/EKA2L1/EKA2L1
-
-If you interested in to be part of "Beta Symbian Community" or developing for Symbian you can join my discord server too: https://discord.gg/mPqatSn
